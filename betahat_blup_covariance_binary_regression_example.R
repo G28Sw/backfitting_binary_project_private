@@ -1,5 +1,4 @@
 ## --------------------------------------------------------------------------------------------------------------------------------------
-start_time = Sys.time()
 
 setwd("/Users/raswa/Dropbox/nsf_art/article_logistic_backfitting_material/")
 source("betahat_blup_covariance_binary_regression.R")
